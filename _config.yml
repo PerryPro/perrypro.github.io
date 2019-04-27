@@ -25,6 +25,7 @@ description: "胤洲的一隅"
 navbar-links:
   Home: "https://isperry.com"
   About: "aboutme"
+  Love: "https://love.isperry.com"
   DEV: 
     - GitHub: "https://github.com"
     - Google: "https://google.com"
