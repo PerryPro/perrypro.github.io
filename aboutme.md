@@ -10,7 +10,7 @@ subtitle: 技术、诗词和远方
 一蓑烟雨任平生。       ——苏轼《定风波》     
      
 作为一名非典型Coder     
-希望有一天，自己能进入Google或者Microsoft  : )	 
+希望有一天，自己能进入Google或者Microsoft  : )       
 朝着梦想中的自己前进!ヾ(≧▽≦*)o
 
 
