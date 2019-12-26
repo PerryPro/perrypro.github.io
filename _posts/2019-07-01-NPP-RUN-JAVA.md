@@ -21,3 +21,9 @@ cd $(CURRENT_DIRECTORY)
 g++ -o "$(NAME_PART).exe" "$(FULL_CURRENT_PATH)" 
 "$(NAME_PART)".exe 
 ```
+运行Python代码
+```
+npp_save
+cd   $(CURRENT_DIRECTORY)
+python $(NAME_PART).py
+```
